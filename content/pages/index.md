@@ -45,7 +45,7 @@ sections:
       - image: images/logo-6.svg
         image_alt: Logo 6
         image_align: center
-      - image: images/logo-7.svg
+      - image: /images/feature-2.svg
         image_alt: Logo 7
         image_align: center
       - image: images/logo-8.svg
